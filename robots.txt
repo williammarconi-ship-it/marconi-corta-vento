@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://corta-vento.marconiconfeccao.com.br/sitemap.xml
